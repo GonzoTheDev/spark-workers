@@ -9,7 +9,7 @@
     {
       "autoDelete": true,
       "boot": true,
-      "deviceName": "slave3",
+      "deviceName": "slave4",
       "initializeParams": {
         "diskSizeGb": "10",
         "diskType": "projects/healthy-icon-330010/zones/us-central1-a/diskTypes/pd-balanced",
